@@ -24,4 +24,4 @@ public class Main {
 - [x] Add an image to the markdown file
 - [x] Add code snippets to the markdown file
 - [x] Add a simple checklist to the markdown file
-- [ ] Finish the pull request
+- [x] Merge the pull request
