@@ -18,3 +18,10 @@ public class Main {
     }
 }
 ```
+
+## Adding a Simple Checklist to a Markdown File
+- [x] Add headers to the markdown file
+- [x] Add an image to the markdown file
+- [x] Add code snippets to the markdown file
+- [x] Add a simple checklist to the markdown file
+- [ ] Finish the pull request
